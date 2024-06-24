@@ -9,7 +9,7 @@
 ---
 ### About Me
 - 🌱 This page is currently under construction!
-- But I'm a third year Computer Science Major at the University of Central Florida
+- But I'm a fourth year Computer Science Major at the University of Central Florida
 - 🔭 I’m currently working on **my personal profolio**
 
 - 🌱 I’m currently learning **TailwindCSS and TypeScript**
