@@ -8,11 +8,9 @@
   
 ---
 ### About Me
-- 🌱 This page is currently under construction!
-- But I'm a fourth year Computer Science Major at the University of Central Florida
-- 🔭 I’m currently working on **my personal profolio**
-
-- 🌱 I’m currently learning **TailwindCSS and TypeScript**
+- 🌱 I've recently graduated from the the University of Central Florida, majoring in Computer Science Major with a minor in Statistics!
+- 🔭 I’m currently working on **exploratory data analysis with openAQI API!**
+- 🌱 I’m currently learning **Kubernates and time series analysis**
 
 ---
 ### Language and Tools!
